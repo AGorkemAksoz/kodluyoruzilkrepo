@@ -1,4 +1,4 @@
-# Kodluyoruz Ilk Repo
+# Patika Dev Ilk Repo
 
 Bu repo [Patika Dev](https://www.patika.dev) Swift Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
